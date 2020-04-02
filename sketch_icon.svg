@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="611px" height="814px" viewBox="0 0 611 814" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" fill-rule="nonzero">
+            <path d="M587.657895,156.121832 L454.366472,22.8304094 C440.068226,8.53216374 420.68616,0.429824561 400.509747,0.429824561 L76.2573099,0.429824561 C34.1569201,0.588693957 0,34.745614 0,76.8460039 L0,737.74269 C0,779.84308 34.1569201,814 76.2573099,814 L533.80117,814 C575.901559,814 610.05848,779.84308 610.05848,737.74269 L610.05848,210.137427 C610.05848,189.961014 601.95614,170.420078 587.657895,156.121832 Z M527.605263,203.94152 L406.705653,203.94152 L406.705653,83.0419103 L527.605263,203.94152 Z M76.2573099,737.74269 L76.2573099,76.8460039 L330.448343,76.8460039 L330.448343,242.070175 C330.448343,263.199805 347.447368,280.19883 368.576998,280.19883 L533.80117,280.19883 L533.80117,737.74269 L76.2573099,737.74269 Z" id="Shape" fill="#C7C7CD"></path>
+            <polygon id="Path" fill="#FDB300" points="225.967742 431.325491 304.717742 423 383.467742 431.325491 444.435484 513.169298 304.717742 675.869143 165 513.169298"></polygon>
+            <g id="Group" transform="translate(165.000000, 513.169298)">
+                <polygon id="Path" fill="#EA6C00" points="56.5926904 0 139.717868 162.699898 0 0"></polygon>
+                <polygon id="Path" fill="#EA6C00" transform="translate(209.576424, 81.349949) scale(-1, 1) translate(-209.576424, -81.349949) " points="196.31018 0 279.435358 162.699898 139.71749 0"></polygon>
+                <polygon id="Path" fill="#FDAD00" points="56.5926904 0 222.843046 0 139.717868 162.699898"></polygon>
+            </g>
+            <g id="Group" transform="translate(165.000000, 423.000000)">
+                <polygon id="Path" fill="#FDD231" points="139.717868 0 60.9675127 8.32538071 56.5926904 90.1692386"></polygon>
+                <polygon id="Path" fill="#FDD231" transform="translate(181.280028, 45.084619) scale(-1, 1) translate(-181.280028, -45.084619) " points="222.842616 0 144.092261 8.32538071 139.717439 90.1692386"></polygon>
+                <polygon id="Path" fill="#FDAD00" transform="translate(248.951602, 49.247310) scale(-1, 1) translate(-248.951602, -49.247310) " points="218.46749 90.1692386 279.435713 8.32538071 275.06018 90.1692386"></polygon>
+                <polygon id="Path" fill="#FDAD00" points="0 90.1692386 60.9675127 8.32538071 56.5926904 90.1692386"></polygon>
+                <polygon id="Path" fill="#FEEEB7" points="139.717868 0 56.5926904 90.1692386 222.843046 90.1692386"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

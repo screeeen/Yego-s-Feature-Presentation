@@ -71,6 +71,23 @@ img {
     font-weight: bold;
 }
 
+.left {
+    text-align: left;
+}
+
 .center {
     margin: 0 auto;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+}
+
+.downloads {
+    border-radius: 4px;
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 70px 20px 0px 20px;
 }
